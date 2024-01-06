@@ -1,0 +1,60 @@
+Abate-Aggravate|
+Adhere-Disjoin|
+Abolish-Establish|
+Acumen-Ignorance|
+Abash-Discompose~
+Absolve-Accuse|
+Abjure-Sanction|
+Abject-Praiseworthy|
+Abound-Destitute|
+Abortive-Productive~
+Acrimony-Courtesy|
+Accord-Discord|
+Adjunct- Subtracted|
+Adversity-Prosperity|
+Adherent-Rival~
+Adamant-Flexible|
+Admonish-Approve|
+Allay-Aggravate|
+Alien-Native|
+Ascend-Descend~
+Alleviate- Enhance|
+Allure-Repulse|
+Arraign- Pardon|
+Amplify- Contract|
+Axiom- Blunder~
+Audacity- Cowardice|
+Authentic-Fictitious|
+Awkward-Adroit|
+Barbarous-Civilized|
+Bleak-Pleasant~
+Bewitching- Repugnant|
+Baroque-unadorned|
+Brittle- Enduring|
+Barrier-Assistance|
+Baffle-Clarify~
+Bustle- Quiet|
+Barren-Fertile|
+Bawdy- Moral|
+Bind-Release|
+Batty-Sane~
+Benevolent-Miserly|
+Befogged-Uncloud|
+Base-Noble|
+Benign- Cruel|
+Busy-Lazy~
+Bleak-Cheerful|
+Bold-Timid|
+Boisterous-Placid|
+Blunt-Keen|
+Callous-Tender~
+Capable-Incompetent|
+Calamity-Fortune|
+Calculating-Artless|
+Calumny- Praise|
+Captivity-Liberty~
+Captivate-Disillusion|
+Chaste-Lustful|
+Cease-Originate|
+Compassion-Cruelty|
+Chastise-Cheer~
