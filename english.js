@@ -51,7 +51,7 @@ function showAntonyms()
 function exitClass()
 {
     localStorage.clear();
-    location.href="home.html";
+    location.href="index.html";
 }
 
 var num_clicks=1;
