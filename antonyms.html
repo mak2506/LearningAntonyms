@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="antonyms.css">
+<script src="english.js"></script>
+
+</head>
+<body onload="showAntonyms()">
+<!--
+  <audio id="myAudio">
+    <source src="quotes1.mp3" type="audio/mpeg">
+  </audio>
+-->
+<div class="head" style="position: absolute; top: 1em;">
+    <h1 id="headbar" style=" position: absolute; left: 2em; top: 0;"></h1>
+    <h1 id="day" style=" position: absolute; top: 0; right: 2em"></h1>
+</div>
+  <div class="container">
+   
+    <div class="card" style="--i: -1">
+        <div class="content" style="--j: 1">
+            <h2>1</h2>
+            <div id="slideContainer1" class="ant"></div>
+        </div>
+    </div>
+    <div class="card" style="--i: 0">
+        <div class="content" style="--j: 2">
+            <h2>2</h2>
+            <div id="slideContainer2" class="ant"></div>
+        </div>
+    </div>
+    <div class="card" style="--i: 1">
+        <div class="content" style="--j: 3">
+            <h2>3</h2>
+            <div id="slideContainer3" class="ant"></div>
+        </div>
+    </div>
+    <div class="card" style="--i: 2">
+        <div class="content" style="--j: 4">
+            <h2>4</h2>
+            <div id="slideContainer4" class="ant"></div>
+        </div>
+    </div>
+    <div class="card" style="--i: 3">
+        <div class="content" style="--j: 5">
+            <h2>5</h2>
+            <div id="slideContainer5" class="ant"></div>
+        </div>
+    </div>
+    
+    <div style="position: absolute; bottom: 0; right: 0;">
+        <a href="#" class="previous" id="prev">&laquo; Previous</a>
+        <a href="#" class="next" id="next" onclick="checkDay()">Next &raquo;</a>
+        
+    
+      </div>
+
+    <div class="ext" style="position: absolute; bottom: 0;">
+        <button id="exit" onclick="exitClass()">&#8678Exit</button>
+    </div>
+</div>
+
+</body>
+</html>

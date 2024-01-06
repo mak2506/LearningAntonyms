@@ -1,0 +1,60 @@
+Lax- Reliable|
+Lavish-Deficient|
+Liable-Unaccountable|
+Lenient- Severe|
+Lucid-	Obscure~
+Lure- Dissuade|
+Linger-Hasten|
+Liberal-Stingy|
+Lunacy-Normalcy|
+Miraculous-Ordinary~
+Molest-Console|
+Modest-Arrogant|
+Momentous-Trivial|
+Mollify-Irritate|
+Morbid-Healthy~
+Monotonous-Varied|
+Murky-Bright|
+Munificent-Penurious|
+Niggardly- Profuse|
+Noxious- Profitable~
+Notion-Reality|
+Novice-Veteran|
+Nonchalant-Attentive|
+Nullify- Uphold|
+Numerous-Scarce~
+Obliging-Mulish|
+Obstruct-	Hasten|
+Obstinate-flexible|
+Obscure-Prominent|
+Obvious-Obscure~
+Obtain-Forfeit|
+Offensive-Engaging|
+Odious-Fascinating|
+Offspring-Ancestor|
+Persuade-Dissuade~
+Pacify-Irritate|
+Propagate-Suppress|
+Perturbed	-	Calm|
+Prompt-Negligent|
+Progress-Worsening~
+Pamper- Disparage|
+Prudence-Indiscretion|
+Quaint-Familiar|
+Quack	-Upright|
+Quell	-Exacerbate~
+Quarantine-Befriend|
+Quibble	-Unfeigned|
+Rapidity-Inertia|
+Raid	-	Retreat|
+Rebellious-	Submissive~
+Reason- Speculation|
+Reluctant-Eager|
+Rectify	-Falsify|
+Ravage- Renovate|
+Remnant-	Entire~
+Stranger-Acquaintance|
+Sympathy-Antipathy|
+Succinct-Lengthy|
+Sarcastic-	Courteous|
+System-Disorder~

@@ -1,0 +1,65 @@
+Concede-Deny|
+Comprise-Reject |
+Consent-Object|
+Concur-Differ|
+Consolidate-Separate~
+Consequence-Origin|
+Contempt-Regard|
+Conspicuous-Concealed|
+Contrary-Similar|
+Contradict-Approve~
+Callous-Kind|
+Calm-Stormy|
+Candid-Evasive|
+Camouflage-	Reveal|
+Carnal-Spiritual~
+Captivate-Repel|
+Celebrated-Inglorious|
+Catholic- Narrow minded|
+Censure-Praise|
+Cement-Disintegrate~
+Clandestine-Legal|
+Cheap-Expensive|
+Coarse-Fine|
+Classic-Unusual|
+Compact-Diffuse~
+Comic-Tragic|
+Conceit-Modesty|
+Compress-Amplify|
+Condemn-Approve|
+Concord-Discord~
+Consolidate-Weaken|
+Confident-Cowardly|
+Creation-Destruction|
+Courtesy- Rudeness|
+Cunning-Coarse~
+Decipher-Distort|
+Decay- Progress|
+Deceit-Sincerity|
+Defray- Repudiate|
+Defile-Sanctity~
+Demolish-Construct|
+Deliberate-Sudden|
+Deride- Encourage|
+Deprive- Renew|
+Dissuade- Persuade~
+Disdain- Praise|
+Dense- Brainy|
+Denounce-Defend|
+Despair- Hope|
+Derogatory-Appreciative~
+Docile-Obstinate|
+Destructive	-Constructive|
+Dwarf- Giant|
+Eclipse-Shine|
+Eager- Apathetic~
+Ecstasy	-Calamity|
+Eccentric- Conventional|
+Encumbrance	- Stimulant|
+Efface-Maintain|
+Eloquence-Stammering~
+Enormous-Negligible|
+Endeavour- Quit|
+Equivocal-Lucid|
+Epitome-Expansion|
+Eradicate- Plant~

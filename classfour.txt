@@ -1,0 +1,60 @@
+Ability-Inability|
+Accept-Refuse/Reject|
+Advance-Retreat|
+Advantage-Disadvantage|
+Adversity-Prosperity~
+Agree-Disagree/Differ|
+Allow-Disallow|
+Alive-Dead|
+All-None|
+Always-Never~
+Ancient-Modern|
+Appear-Disappear|
+Attractive-Repulsive|
+Bad-Good|
+Barbarous-Civilized~
+Beautiful-ugly|
+Begin-End|
+Big-Small|
+Bid-Timid|
+Brave-Coward~
+Buy-sell|
+Care-Neglect|
+Cheap-Costly|
+Clean -Dirty|
+Clever -Stupid~
+Cool- Warm|
+Danger -Safety|
+Dark-Bright|
+Day-Night|
+Death- Birth~
+Deep-Shallow|
+Difficult -Easy|
+Early-Late|
+Empty -Pull|
+Far-Near~
+Fat-Thin|
+Foolish-Wise|
+Gain-Loss|
+Glory-Shame|
+Go-Come~
+Good-Bad|
+Great-Small|
+Heaven-Hell|
+High-Low|
+Hot-Cold~
+Import-Export|
+Joy-Sorrow|
+Kind-Cruel|
+Laugh-Weep|
+Legal-Illegal~
+Lend-Borrow|
+Lie-Truth|
+Majority-Minority|
+Masculine-Feminine|
+Maximum -Minimum~
+Motion-Rest|
+Natural- Artificial|
+Obey - Disobey|
+Odd - Even|
+Oral-Written~
